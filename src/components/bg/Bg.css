@@ -1,0 +1,57 @@
+.e {
+  background: rgb(0, 48, 73);
+  width: 532px;
+  height: 532px;
+  margin-top: 237px;
+  margin-left: 783px;
+}
+.e1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 75px;
+  padding: 22px 33px;
+  border-radius: 20px;
+  background: rgb(237, 242, 244);
+  width: 1135px;
+  position: absolute;
+  z-index: 1;
+  margin-top: -470px;
+  margin-left: 50px;
+}
+.e1 h1 {
+  color: rgb(255, 0, 0);
+  font-family: Lalezar;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0%;
+  text-align: left;
+  max-width: 506px;
+}
+.e1 h2 {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+  max-width: 648px;
+  margin-top: 20px;
+}
+.e1 button {
+  border-radius: 20px;
+  background: rgb(255, 0, 0);
+  padding: 15px 35px;
+  cursor: pointer;
+  border-style: none;
+  color: rgb(255, 255, 255);
+  font-family: Lalezar;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-top: 20px;
+}

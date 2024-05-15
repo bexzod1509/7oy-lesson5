@@ -1,0 +1,38 @@
+.g {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-top: 74px;
+  padding-bottom: 85px;
+}
+.footer {
+  background: rgb(237, 242, 244);
+  margin-top: 110px;
+}
+.g h1 {
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 25px;
+  line-height: 1px;
+  color: black;
+}
+.g p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: black;
+  max-width: 186px;
+}
+.g2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 15px;
+}
+.g2 h4 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: black;
+  max-width: 186px;
+}

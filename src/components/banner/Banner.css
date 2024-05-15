@@ -1,0 +1,39 @@
+.d {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 151px;
+}
+.d p {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0%;
+  margin-top: 33px;
+}
+.d h1 {
+  color: rgb(214, 40, 40);
+  font-family: Lalezar;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-top: 27px;
+  max-width: 900px;
+}
+.d h2 {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 68px;
+  max-width: 1254px;
+  text-align: center;
+}
